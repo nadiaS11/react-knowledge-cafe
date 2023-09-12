@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "title": "The Secret of Quantum Computing",
+    "cover": "https://i.ibb.co/q7cNBtg/4234131-2217700.jpg",
+    "author_img": "https://i.ibb.co/nL0q2TP/pexels-konstantin-shpankov-1697965.jpg",
+    "name": "John Smith",
+    "posted_date": "2023-09-12",
+    "reading_time": "10 min",
+    "hashtags": ["technology", "quantum", "computing"]
+  },
+  {
+    "id": 2,
+    "title": "Exploring Mars: A Journey to the Red Planet",
+    "cover": "https://i.ibb.co/H29qnCc/pexels-spacex-586030.jpg",
+    "author_img": "https://i.ibb.co/nL0q2TP/pexels-konstantin-shpankov-1697965.jpg",
+    "name": "Jane Doe",
+    "posted_date": "2023-09-11",
+    "reading_time": "8 min",
+    "hashtags": ["space", "Mars", "exploration"]
+  },
+  {
+    "id": 3,
+    "title": "The Art of Photography: Capturing Moments",
+    "cover": "https://i.ibb.co/XV0RN4P/pexels-lisa-fotios-1413906.jpg",
+    "author_img": "https://i.ibb.co/nL0q2TP/pexels-konstantin-shpankov-1697965.jpg",
+    "name": "Alex Johnson",
+    "posted_date": "2023-09-10",
+    "reading_time": "12 min",
+    "hashtags": ["photography", "art", "creativity"]
+  },
+  {
+    "id": 4,
+    "title": "Healthy Eating: A Balanced Diet for Life",
+    "cover": "https://i.ibb.co/FzdFg42/pexels-kai-pilger-1352199.jpg",
+    "author_img": "https://i.ibb.co/nL0q2TP/pexels-konstantin-shpankov-1697965.jpg",
+    "name": "Emily Wilson",
+    "posted_date": "2023-09-09",
+    "reading_time": "15 min",
+    "hashtags": ["health", "nutrition", "wellness"]
+  },
+  {
+    "id": 5,
+    "title": "Hiking Adventure: Why You Should Spend Money On Your Trip",
+    "cover": "https://i.ibb.co/6rkyGNm/pexels-iconcom-733162.jpg",
+    "author_img": "https://i.ibb.co/nL0q2TP/pexels-konstantin-shpankov-1697965.jpg",
+    "name": "David Brown",
+    "posted_date": "2023-09-08",
+    "reading_time": "9 min",
+    "hashtags": ["nature", "adventure", "hiking"]
+  }
+]
